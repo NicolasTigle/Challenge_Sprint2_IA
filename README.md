@@ -1,4 +1,4 @@
-# Integrantes do grupo ZeniTI:
+# Integrantes do grupo ZeniTI - 2TDSJ:
 
 # Amanda da Silva Fernandes - RM86688
 # Gabriel Antonio Luiz Tomaz Assunção - RM86675
