@@ -1,4 +1,4 @@
-# Integrantes do grupo que realizaram o Challenge:
+# Integrantes do grupo ZeniTI:
 
 # Amanda da Silva Fernandes - RM86688
 # Gabriel Antonio Luiz Tomaz Assunção - RM86675
